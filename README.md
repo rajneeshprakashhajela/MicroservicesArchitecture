@@ -1,3 +1,7 @@
+System Design Blueprint: The Ultimate Guide
+https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1
+
+
 ![image](https://github.com/rajneeshprakashhajela/MicroservicesArchitecture/assets/43515480/a41880dc-744a-4232-a940-3d30bf9041b6)
 
 ![image](https://github.com/rajneeshprakashhajela/MicroservicesArchitecture/assets/43515480/39160b01-e0bb-4e9d-b534-21f9e99a1e15)
