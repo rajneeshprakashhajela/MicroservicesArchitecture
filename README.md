@@ -1,3 +1,11 @@
+Microservices Architecture: Problems and Solutions with Pattern and Principles
+
+https://medium.com/design-microservices-architecture-with-patterns/microservices-architecture-problems-and-solutions-with-pattern-and-principles-b673f342dc10
+
+
+
+
+
 System Design Blueprint: The Ultimate Guide
 https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1
 ![image](https://github.com/rajneeshprakashhajela/MicroservicesArchitecture/assets/43515480/ca005316-12f2-41d2-b95e-f63ea31063a1)
