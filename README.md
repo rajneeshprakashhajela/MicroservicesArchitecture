@@ -1,6 +1,27 @@
 Software Architecture: Way of Learning for Microservices
 https://medium.com/design-microservices-architecture-with-patterns/software-architecture-way-of-learning-for-microservices-527c992b5b85
+![image](https://github.com/rajneeshprakashhajela/MicroservicesArchitecture/assets/43515480/ab1b2ad0-7bbb-4b71-a777-1a342053a542)
+According to this flow, we can start with very common problem to create e-commerce architecture:
 
+Problem : Sold products on the internet
+Learn : e-commerce domain, required specs, monolithic
+Design : monolithic, microservices
+Adapt : tech stack, java or .net ecosystem
+Evaluate : pros-cons , what’s wrong this design
+
+Problem: Increased Traffic, Handle More Request
+Problem: Break Down Application into Microservices
+Problem: Direct Client-to-Service Communication
+Problem: Inter-service communication makes heavy load on network traffic
+Problem: Chat with Support Agent
+Problem: Service-to-Service Communications Chain Queries
+Problem: Long Running Operations Can’t Handle with Sync Communication
+Problem: Database Bottlenecks when Scaling, Different Data Requirements For Microservices
+Problem: Cross-Service Queries and Write Commands on Distributed Scaled Databases
+Problem: Manage Consistency Across Microservices in Distributed Transactions
+Problem: Handle Millions of Events Across Microservices
+Problem: Database operations are expensive, low performance
+Problem: Deploy Microservices at Anytime with Zero-downtime and flexible scale
 Microservices Architecture: Problems and Solutions with Pattern and Principles
 
 https://medium.com/design-microservices-architecture-with-patterns/microservices-architecture-problems-and-solutions-with-pattern-and-principles-b673f342dc10
