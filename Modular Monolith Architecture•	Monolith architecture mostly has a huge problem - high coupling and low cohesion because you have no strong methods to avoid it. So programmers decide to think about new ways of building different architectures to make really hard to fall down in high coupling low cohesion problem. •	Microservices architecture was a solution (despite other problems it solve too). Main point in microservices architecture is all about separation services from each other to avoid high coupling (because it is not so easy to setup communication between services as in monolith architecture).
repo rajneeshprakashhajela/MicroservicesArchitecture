@@ -1,0 +1,3 @@
+
+•	Monolith architecture mostly has a huge problem - high coupling and low cohesion because you have no strong methods to avoid it. So programmers decide to think about new ways of building different architectures to make really hard to fall down in high coupling low cohesion problem.
+•	Microservices architecture was a solution (despite other problems it solve too). Main point in microservices architecture is all about separation services from each other to avoid high coupling (because it is not so easy to setup communication between services as in monolith architecture).
